@@ -15,6 +15,7 @@ navbar:
       href: http://github.com/
 output: 
   html_document:
+    css: custom.css
     theme: united
     toc: yes
     toc_float:
